@@ -2028,8 +2028,8 @@ button:focus {
 .main-slider .tp-dottedoverlay {
     position: absolute;
     left: 0;
-    top: 0;
-    height: 100%;
+    top: 20px;
+    height: 600px;
     width: 100%;
 }
 
